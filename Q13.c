@@ -16,6 +16,6 @@ swap=ld*mult;
 swap=swap+num%mult;
 swap=swap-ld;
 swap=swap+fd;
-printf("swapped number is : %d",swap);
+printf("swapped number is : %d \n",swap);
 return 0;
 }
